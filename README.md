@@ -1,1 +1,1 @@
-# ImageRasterizer
+# Image Rasterizer
