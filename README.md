@@ -19,7 +19,8 @@ The fragment shader processes each pixel covered by a triangle, applying shading
 
 ### Frame Buffer
 The frame buffer stores the final pixel data produced by the rasterizer. It acts as a temporary storage for rendered images before they are sent to the display. The frame buffer is typically implemented as a block RAM on the FPGA.
-Control Unit
+
+### Control Unit
 The control unit orchestrates the rasterization process, managing the flow of data between units and ensuring synchronization. It handles input commands and control signals to coordinate rendering tasks.
 
 
