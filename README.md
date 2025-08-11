@@ -1,5 +1,5 @@
 # FPGA Rasterizer Implementation Overview
-Welcome to the FPGA Rasterizer project! Inspired by my interest in computer graphics and digital design, this project aims to design and implement a rasterizer on an FPGA using VHDL.
+Welcome to the FPGA Rasterizer project! Inspired by my interest in computer graphics and digital design, this project aims to design and implement a simple graphics card on an FPGA using VHDL.
 ## Overview 
 This project involves creating a hardware-based rasterizer on an FPGA, focusing on the graphics pipeline and rendering techniques. The rasterizer processes geometric data to produce pixel data for display, interacting with frame buffers to store rendered images.
 
